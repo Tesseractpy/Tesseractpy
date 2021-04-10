@@ -67,3 +67,4 @@ public class TabsAccessorAdapter extends FragmentPagerAdapter
         }
     }
 }
+
