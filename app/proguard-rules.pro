@@ -29,3 +29,4 @@
 -keepclassmembers class com.yourcompany.models.** {
   *;
 }
+
