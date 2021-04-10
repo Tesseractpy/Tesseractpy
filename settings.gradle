@@ -1,3 +1,2 @@
 rootProject.name='Whatsapp'
-include ':app'v
-
+include ':app'
